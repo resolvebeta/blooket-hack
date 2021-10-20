@@ -29,6 +29,7 @@ https://streamable.com/t4u7i7
 3. Delete everything in the url box
 4. Type `javascript:`
 5. Paste in the code
+6. YAYAYAYAYAYAYAY haava babakaj ojuce necwjnd wjdnjskndiwundewjdnw ie u are STUPIDO STUPDo 
 
 # Frequently Asked Questions
 
