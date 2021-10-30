@@ -9,7 +9,7 @@ async function addTokens() {
     const add_tokens = prompt('How many tokens do you want to add to your account? (500 daily)');
     const myToken = localStorage.token.split('JWT ')[1];
 
-    if (add_tokens > 500) {
+    if (add_tokens > 1000) {
         alert('You can add up to 500 tokens daily')
     }
 
@@ -23,7 +23,7 @@ async function addTokens() {
         body: JSON.stringify({
             name: await getName(myToken),
             addedTokens: add_tokens,
-            addedXp: 300
+            addedXp: -300
         })
     });
 
